@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 using namespace std;
 int main() {
 	////integer1
@@ -165,12 +165,12 @@ int main() {
 //cout << L;
 
 //integer23
-int S;
-cin >> S;
-int M = S / 60;
-int h = S / 3600;
-int L = h / 100;
-cout << L;
+//int S;
+//cin >> S;
+//int M = S / 60;
+//int h = S / 3600;
+//int L = h / 100;
+//cout << L;
 
 
 
